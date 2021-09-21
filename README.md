@@ -17,7 +17,7 @@ My task is to,
 
 ◇ Each element could be e.g. if the Logo exists, the navigation bar appears, the name on about us page is correct, etc.
 
-Environmental Variables
+# Environmental Variables
 
 To run this project, you need download Firefox web Driver and set the path.
 
